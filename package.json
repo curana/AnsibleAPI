@@ -1,0 +1,8 @@
+{
+	"name": "AnsibleAPI",
+	"version": "0.1",
+	"dependencies": {
+		"async": 			"~0.2.10",
+		"restify": 			"~2.6.1"
+	}
+}
